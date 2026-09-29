@@ -137,7 +137,7 @@ The triangle is formed by connecting three points using three straight line segm
 
 ### Output
 
-![Triangle Output](triangle.png)
+![Triangle Output](Triangle.png)
 
 ---
 
